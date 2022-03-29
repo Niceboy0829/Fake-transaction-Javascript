@@ -1,0 +1,22 @@
+{
+  "name": "txGenerator",
+  "version": "1.0.0",
+  "description": "Create fake transaction in blockchain network.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "Blockchain",
+    "Bitcoin",
+    "Fake Transaction",
+    "Desktop App"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^5.0.0"
+  }
+}
